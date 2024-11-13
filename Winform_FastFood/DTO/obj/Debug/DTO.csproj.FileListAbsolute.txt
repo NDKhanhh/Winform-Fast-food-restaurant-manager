@@ -4,3 +4,10 @@ D:\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\bin\Debug\DTO.pdb
 D:\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\obj\Debug\DTO.dll
 D:\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\obj\Debug\DTO.pdb
+D:\DO_AN\PTPM_UDTM\new2\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\bin\Debug\DTO.dll.config
+D:\DO_AN\PTPM_UDTM\new2\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\bin\Debug\DTO.dll
+D:\DO_AN\PTPM_UDTM\new2\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\bin\Debug\DTO.pdb
+D:\DO_AN\PTPM_UDTM\new2\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DO_AN\PTPM_UDTM\new2\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DO_AN\PTPM_UDTM\new2\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\obj\Debug\DTO.dll
+D:\DO_AN\PTPM_UDTM\new2\Winform-Fast-food-restaurant-manager\Winform_FastFood\DTO\obj\Debug\DTO.pdb

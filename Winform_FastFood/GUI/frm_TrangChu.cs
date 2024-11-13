@@ -119,7 +119,7 @@ namespace GUI
             Panel_Body.Controls.Add(control_Danhmuc);
             //************
             setcolor();
-            bnt_Menu_NhanVien.BackColor = Color.White;
+            bnt_Menu_DanhMuc.BackColor = Color.White;
         }
 
         private void bnt_Menu_ThucDon_Click_1(object sender, EventArgs e)
